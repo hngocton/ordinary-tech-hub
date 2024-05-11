@@ -11,10 +11,10 @@ const CONFIG = {
     instagram: "ho.ngocton",
   },
   projects: [
-    // {
-    //   name: `morethan-log`,
-    //   href: "https://github.com/morethanmin/morethan-log",
-    // },
+    {
+      name: `Course Recommendation Platform`,
+      href: "https://github.com/hngocton/course-recommendation-platform",
+    },
   ],
   // blog setting (required)
   blog: {
